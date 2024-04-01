@@ -1,0 +1,16 @@
+{
+  "name": "am14-zakat-calculator",
+  "version": "1.0.0",
+  "description": "the calculator who calculate zakat amount according to gold weight",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
